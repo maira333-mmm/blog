@@ -12,12 +12,12 @@ A complete **PHP Blog Application** with user authentication, category managemen
 
 <br>
 
-<a href="https://github.com/maira333-mmm/php-blog">
+<a href="https://github.com/maira333-mmm/blog">
   <img src="https://img.shields.io/badge/📂_SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
 </a>
 
-<a href="https://github.com/maira333-mmm/php-blog/commits/main">
-  <img src="https://img.shields.io/github/last-commit/maira333-mmm/php-blog?style=for-the-badge&label=LAST%20UPDATE" alt="Last Update"/>
+<a href="https://github.com/maira333-mmm/blog/commits/main">
+  <img src="https://img.shields.io/github/last-commit/maira333-mmm/blog?style=for-the-badge&label=LAST%20UPDATE" alt="Last Update"/>
 </a>
 
 <br><br>
@@ -598,21 +598,31 @@ Open Pull Request
 
 # 📬 Contact
 
+
 <div align="center">
 
-### 👩‍💻 Maira Alam
+## 👩‍💻 Maira Alam
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maira.alam33@gmail.com)
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=maira.alam33@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maira333-mmm)
+<a href="https://github.com/maira333-mmm">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maira-a-48699630b/)
+<a href="https://www.linkedin.com/in/maira-a-48699630b/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://maira-alam-o2p20gi.gamma.site/)
+<a href="https://maira-alam-o2p20gi.gamma.site/">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
 </div>
 
 ---
+
 
 # 📄 License
 
@@ -703,5 +713,3 @@ Made with 💙 by **Maira Alam**
 ⭐ If you found this project helpful, consider giving it a **Star**.
 
 </div>
-└── vendor/                          # Dependencies (if any)
-
